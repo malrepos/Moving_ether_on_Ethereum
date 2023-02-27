@@ -1,5 +1,7 @@
 # Moving ether on Ethereum
 
+![](images\ethereum-coins.jpg)
+
 Programming takes on an extra dimension when payments come into play. When there is the idea of “money” involved in a function, when not only data is sent but a currency, things start to get serious, and also interesting. Solidity, like any language, is learned through trial and error, lessons and practice, however the concept and logic behind moving ether around and paying gas require a more focused study. This is, after all, something new and different.
 
 The syntax of sending ether can be tricky to begin with. It seemed to me I had to cast an address or a function as payable multiple times before the compiler would let me go ahead with the contract. And at times I could seemingly not send ether using a function parameter, only low level transactions, which frustrated me. No doubt understanding and internalizing the syntax is easier if I know what is actually happening behind the scenes at a deeper level. What am I actually doing when I cast an address as payable? What is an address if it is not payable? How does ether 'enter' and remain in the contract? These are the kinds of questions many, including myself , would think to ask but often do not pursue the answer. With something as fundamental and revolutionary as programmable money, this passivity is a mistake. You need to understand how the native currency ether works on the Ethereum network.
