@@ -1,6 +1,6 @@
 # Moving ether on Ethereum
 
-![ethereum Coins](images\ethereum-coins.jpg)
+[ethereum Coins](images\ethereum-coins.jpg)
 
 Programming takes on an extra dimension when payments come into play. When there is the idea of “money” involved in a function, when not only data is sent but a currency, things start to get serious, and also interesting. Solidity, like any language, is learned through trial and error, lessons and practice, however the concept and logic behind moving ether around and paying gas require a more focused study. This is, after all, something new and different.
 
